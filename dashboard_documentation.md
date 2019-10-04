@@ -10,16 +10,16 @@ Dashboard Documentation
 The Solar Forecast Arbiter Dashboard is a web interface for managing solar
 observation and forecast data and for evaluating solar forecast accuracy.
 This documentation provides step-by-step examples of how to perform
-common activities on the Solar Forecast Arbiter dashboard. The Content menu
-can be used to navigate between each activity. Each section includes
-instructions and screenshots.
+common activities on the Solar Forecast Arbiter dashboard. Use the Contents menu
+to navigate between each activity. Each section includes instructions and screenshots.
 
 Be sure to read the [Getting Started](#getting-started) section for instructions
 on how to access the current version of the dashboard.
 Please see the [data model documentation](/datamodel/) for more details on
 how the Solar Forecast Arbiter organizes metadata (Sites, Observations, and Forecasts)
 and time series data.
-Tutorial materials are available in our [2019 Denver Workshop repository](https://github.com/SolarArbiter/2019-Denver-Workshop).
+Additional training materials are available in our
+[workshop repository](https://github.com/SolarArbiter/workshop).
 
 
 Getting Started
@@ -34,9 +34,10 @@ window. Click the sign up tab and enter your information.
 You will receive an email from Auth0 to verify your email address. You are
 required to verify your email before accessing the Solar Forecast Arbiter.
 
-In order to contribute data to the Arbiter or to have other data shared with
-you, you will first need to join an organization. To establish a new organization
-org join an existing organization, contact <a href="mailto:help@solarforecastarbiter.org">help@solarforecastarbiter.org</a>.
+In order to upload data to the Arbiter, generate reports, or receive
+data from other users, you will first need to join an *organization*. To
+establish a new organization or to join an existing organization,
+contact <a href="mailto:help@solarforecastarbiter.org">help@solarforecastarbiter.org</a>.
 
 
 Create New Site
