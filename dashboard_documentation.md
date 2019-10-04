@@ -37,9 +37,10 @@ You will receive an email from Auth0 to verify your email address. You are
 required to verify your email before accessing the Solar Forecast Arbiter.
 
 In order to upload data to the Arbiter, generate reports, or receive
-data from other users, you will first need to join an *organization*. To
-establish a new organization or to join an existing organization,
-contact <a href="mailto:help@solarforecastarbiter.org">help@solarforecastarbiter.org</a>.
+data from other users, you will first need to associate your user
+account with an *organization* account. To establish a new organization
+or to join an existing organization, contact
+[help@solarforecastarbiter.org](mailto:help@solarforecastarbiter.org)
 
 
 Create New Site
@@ -207,9 +208,9 @@ for details.
     <img class="my-3" src="/images/reports.png"/>
 
 2.  Enter the report name and a start and end for the period to analyze.
-    Add pairs of Observations and Forecasts to compare by clicking the **Add
-    Forecast, Observation pair** button. Check the boxes for metrics to calculate
-    in the report.
+    Add pairs of Observations and Forecasts to compare by clicking the
+    **Add Forecast, Observation pair** button. Check the boxes for
+    metrics to calculate in the report.
 
      <img class="my-3" src="/images/report_form.png"/>
 
@@ -221,7 +222,7 @@ for details.
 ## Permission/Role management
 {: .anchor}
 
-This section contains proposed user interface for managing data acces through
+This section describes the user interface for managing data acces through
 roles and permissions. An accompanying workflow description can be found in the
 [Data Access Workflow Document](/data-access-workflow/).
 
