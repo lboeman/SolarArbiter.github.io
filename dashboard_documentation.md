@@ -29,7 +29,9 @@ Getting Started
 To register an account in the Solar Forecast Arbiter, navigate to
 [dashboard.solarforecastarbiter.org](https://dashboard.solarforecastarbiter.org)
 and click on the login link. You will be prompted with an Auth0 login
-window. Click the sign up tab and enter your information.
+window. Click the sign up tab and enter your information. Auth0 is a
+secure authentication service that has numereous security credentials
+and undergoes routine audits.
 
 You will receive an email from Auth0 to verify your email address. You are
 required to verify your email before accessing the Solar Forecast Arbiter.
